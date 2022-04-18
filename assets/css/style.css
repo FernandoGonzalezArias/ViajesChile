@@ -1,0 +1,30 @@
+body{
+    margin:0px;
+    padding: 0px;
+    background-color: black;
+    color: #fff;
+   }
+
+hr, .card, footer, .iconosParrafos{
+    background-color: #17A2B8;
+}
+
+nav img{
+    width: 25px;
+}
+footer i{
+    height: 55px;
+}
+
+#iconosFooter{
+    padding-left: 60%;
+}
+
+#iconosFooter i{
+    font-size: 2em;
+    padding-right: 0.5%;
+}
+
+.card:hover{
+    opacity: 0.8;
+}
