@@ -1,30 +1,38 @@
-body{
-    margin:0px;
+body {
+    margin: 0px;
     padding: 0px;
     background-color: black;
     color: #fff;
-   }
+}
 
-hr, .card, footer, .iconosParrafos{
+hr,
+.card,
+footer,
+.iconosParrafos {
     background-color: #17A2B8;
 }
 
-nav img{
+#boton {
+    background-color: #17A2B8;
+}
+
+nav img {
     width: 25px;
 }
-footer i{
+
+footer i {
     height: 55px;
 }
 
-#iconosFooter{
+#iconosFooter {
     padding-left: 60%;
 }
 
-#iconosFooter i{
+#iconosFooter i {
     font-size: 2em;
     padding-right: 0.5%;
 }
 
-.card:hover{
+.card:hover {
     opacity: 0.8;
 }
